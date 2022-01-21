@@ -1,0 +1,8 @@
+각 자료의 출처
+	1. 주민등록 인구 및 세대현황 (2008.01 ~ 2021.10)
+		행정안전부 주민등롱 인구통계
+		https://jumin.mois.go.kr/index.jsp
+	
+	2. 시군구_성_연령_(5세)별_주민등록연앙인구_2005-2020.csv
+		KOSIS 국가통계포털
+		https://kosis.kr/statisticsList/statisticsListIndex.do?vwcd=MT_ZTITLE&menuId=M_01_01#content-group

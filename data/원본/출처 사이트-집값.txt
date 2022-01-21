@@ -1,0 +1,12 @@
+각 자료의 출처
+	1. 유형별_매매가격지수_2005.01-2021.09.xls
+		KOSIS 국가통계포털
+		https://kosis.kr/index/index.do
+
+	2. 평균매매가격_아파트.xlsx, 평균월세가격_아파트.xlsx, 평균전세가격_아파트.xlsx
+		R-ONE 부동산통계뷰어
+		https://www.reb.or.kr/r-one/statistics/statisticsViewer.do
+
+	3. 서울특별시_부동산_실거래가_정보_(2006년 ~ 2020년).csv
+		서울 열린데이터 광장
+		https://data.seoul.go.kr/dataList/OA-15548/S/1/datasetView.do
